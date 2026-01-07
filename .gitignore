@@ -1,0 +1,19 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Log files
+*.log
+
+# Environment files (future-proof)
+.env
+venv/
+
+# Jupyter notebook checkpoints (if used later)
+.ipynb_checkpoints/
